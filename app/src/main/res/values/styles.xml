@@ -6,4 +6,13 @@
         <!-- Background color of buttons in the app -->
         <item name="colorButtonNormal">@color/lightBlue</item>
     </style>
+
+    <style name="textview">
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@color/lightBlue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:layout_marginBottom">10dp</item>
+
+    </style>
 </resources>
